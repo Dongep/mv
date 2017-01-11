@@ -1,0 +1,22 @@
+{
+  "name": "md-vue",
+  "version": "1.0.0",
+  "description": "markdown to .vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "mv"
+  },
+  "bin": {
+    "mtv": "./bin/index.js"
+  },
+  "keywords": [
+    "markdown",
+    "vue"
+  ],
+  "author": "dong",
+  "license": "ISC",
+  "devDependencies": {
+    "marked": "^0.3.6",
+    "prismjs": "^1.6.0"
+  }
+}
